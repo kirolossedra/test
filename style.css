@@ -1,3 +1,11 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+
+
 /* (A) OUTER CONTAINER */
 .hwrap {
   /* (A1) DIMENSIONS */
